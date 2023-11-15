@@ -10,6 +10,11 @@
       "StackName": "amplify-googleauth-staging-84204",
       "StackId": "arn:aws:cloudformation:ap-south-1:172327970845:stack/amplify-googleauth-staging-84204/da82e7a0-8392-11ee-be90-02ebd758e1d6",
       "AmplifyAppId": "d1aop8sxnou3qj"
+    },
+    "categories": {
+      "auth": {
+        "googleauth": {}
+      }
     }
   }
 }
