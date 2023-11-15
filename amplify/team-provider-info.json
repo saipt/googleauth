@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-googleauth-staging-84204-authRole",
+      "UnauthRoleArn": "arn:aws:iam::172327970845:role/amplify-googleauth-staging-84204-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::172327970845:role/amplify-googleauth-staging-84204-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-googleauth-staging-84204-deployment",
+      "UnauthRoleName": "amplify-googleauth-staging-84204-unauthRole",
+      "StackName": "amplify-googleauth-staging-84204",
+      "StackId": "arn:aws:cloudformation:ap-south-1:172327970845:stack/amplify-googleauth-staging-84204/da82e7a0-8392-11ee-be90-02ebd758e1d6",
+      "AmplifyAppId": "d1aop8sxnou3qj"
+    }
+  }
+}
